@@ -2,7 +2,7 @@
 # About Me:
 Computer Engineering student in Universidad Complutense de Madrid, finishing my degree.<br>I'm interested in telecom industry, comunications and industrial applications.<br>I love nature and outside sports.
 
-# 📠 Professional Background:
+# Professional Background:
 Worked as intern for Zaleos SL during first half of 2025. Developing group work skills in agile workspaces.<br>In Zaleos we developed and perfected Next Generation communication and its retrocompatibility with old standards, in Europe and US.
 
 ## Socials:
