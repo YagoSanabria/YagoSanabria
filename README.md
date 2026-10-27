@@ -1,9 +1,9 @@
 ## Hi there 👋
 # About Me:
-Computer Engineering student in Universidad Complutense de Madrid, finishing my degree.<br>I'm interested in telecom industry, comunications and industrial applications.<br>I love nature and outside sports.
+Computer Engineer by Universidad Complutense de Madrid.<br>I'm interested in telecom industry, comunications and industrial applications.<br>I love nature and outside sports.
 
 # Professional Background:
-Worked as intern for Zaleos SL during first half of 2025. Developing group work skills in agile workspaces.<br>In Zaleos we developed and perfected Next Generation communication and its retrocompatibility with old standards, in Europe and US.
+Worked as intern for Zaleos SL during first half of 2025. Developing group work skills in agile workspaces.<br>In Zaleos we developed and perfected Next Generation eCall communication and its retrocompatibility with old standards 3G-5G , in Europe and US.
 
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yago-sanabria-gavin) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yago.sanabria.gavin@gmail.com) 
